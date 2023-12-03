@@ -179,7 +179,6 @@ mod tests {
         assert_eq!(result, false);
     }
 
-
     #[test]
     fn compute_minimum_set_for_single_game() {
         let game =
